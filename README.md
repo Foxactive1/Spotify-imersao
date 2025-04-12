@@ -4,8 +4,9 @@ Repositório do projeto de um **Web Music Player** moderno, responsivo e estiliz
 
 ## Demonstração
 
-![preview](./Screenshot_2025-04-11-22-35-52-002_com.brave.browser-edit.jpg 
-./Screenshot_2025-04-11-22-35-28-059_com.rhmsoft.code-edit.jpg)  
+![preview](./Screenshot_2025-04-11-22-35-52-002_com.brave.browser-edit.jpg)
+
+![preview](./Screenshot_2025-04-11-22-35-28-059_com.rhmsoft.code-edit.jpg)  
 *Exemplo da interface com player central, playlist destacada e responsividade mobile.*
 
 ---
